@@ -1,2 +1,3 @@
-let currentUser = 'John Does'
+let currentUser = 'John Doe';
+
 // Write your code in this file!
